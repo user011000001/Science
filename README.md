@@ -1,11 +1,10 @@
-Science
+# Science
 
 
 
 
-Question 1:
-
-Explain how animals dwelling in the forest help it grow and regenerate.
+## Question 1:
+### Explain how animals dwelling in the forest help it grow and regenerate.
 
 
 ANSWER:
@@ -21,16 +20,14 @@ The animals in forests are of various types. These could be herbivores, carnivor
 All these activities of animals dwelling in the forest help it to grow and regenerate.
 
 
-Question 2:
-
-Explain how forests prevent floods.
+## Question 2
+### Explain how forests prevent floods.
 
 ANSWER:
 Forest acts as a natural absorber of water. It allows rain water to seep through. In the absence of trees, the rain water would hit the ground directly resulting in flood. However, because of the presence of trees, rain water does not hit the ground directly. It rather hits the ground slowly. Hence, before flooding, all the rain water seeps through ground. In this way, forests prevent floods.
 
-Question 3:
-
-What are decomposers? Name any two of them. What do they do in the forest?
+## Question 3:
+### What are decomposers? Name any two of them. What do they do in the forest?
 
 ANSWER:
 
@@ -40,25 +37,22 @@ Bacteria and fungi are the two types of decomposers.
 
 They help in the process of recycling of nutrients by decomposing various dead organisms such as plants and animals to form humus.
 
-Question 4:
-
-Explain the role of forest in maintaining the balance between oxygen and carbon dioxide in the atmosphere.
+## Question 4:
+### Explain the role of forest in maintaining the balance between oxygen and carbon dioxide in the atmosphere.
 
 ANSWER:Forests are called the green lungs. This is because plants in forests release oxygen through the process of photosynthesis and help in providing oxygen to animals for respiration. Plants consume carbon dioxide released by the animals. In this way, plants help in maintaining a balance of oxygen and carbon dioxide in atmosphere.
 
 https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/546/Chapter%2017_html_2ff06bce.jpg
 
-Question 5:
-
-Explain why there is no waste in a forest.
+## Question 5:
+### Explain why there is no waste in a forest.
 
 ANSWER:
 
 There is no waste in a forest because micro-organisms act on the wastes and convert them to humus. This humus ensures that the nutrients are returned back to the soil.
 
-Question 6:
-
-List five products we get from forests.
+## Question 6:
+### List five products we get from forests.
 
 ANSWER:
 
@@ -72,21 +66,16 @@ ANSWER:
 
 (v) Gum
 
+## Question 7:
+### Fill in the blank:
 
+### (a) The insects, butterflies, honeybees and birds help flowering plants in _______.
 
+### (b) A forest is a purifier of _______ and ________.
 
+### (c) Herbs form the ________ layer in the forest.
 
-Question 7:
-
-Fill in the blank:
-
-(a) The insects, butterflies, honeybees and birds help flowering plants in _______.
-
-(b) A forest is a purifier of _______ and ________.
-
-(c) Herbs form the ________ layer in the forest.
-
-(d) The decaying leaves and animal droppings in a forest enrich the _______.
+### (d) The decaying leaves and animal droppings in a forest enrich the _______.
 
 ANSWER:
 
@@ -98,9 +87,8 @@ ANSWER:
 
 (d) The decaying leaves and animal droppings in a forest enrich the __soil__.
 
-Question 8:
-
-Why should we worry about the conditions and issues related to forests far from us?
+## Question 8:
+### Why should we worry about the conditions and issues related to forests far from us?
 
 ANSWER:
 
@@ -116,9 +104,8 @@ There are various reasons for which we should be vigilant about matters related 
 
 Therefore, we need to conserve our forests.
 
-Question 9:
-
-Explain why there is a need of variety of animals and plants in a forest.
+## Question 9:
+### Explain why there is a need of variety of animals and plants in a forest.
 
 ANSWER:
 
@@ -126,45 +113,42 @@ A greater variety of plants and animals in the forests helps it to regenerate an
 
  
 
-Question 10:
-
-In figure, the artist has forgotten to put the labels and directions on the arrows. Mark the directions on the arrows and label the diagram using the following labels:
+## Question 10:
+### In figure, the artist has forgotten to put the labels and directions on the arrows. Mark the directions on the arrows and label the diagram using the following labels:
 
 https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_3c7e2c8b.jpg
 
-clouds, rain, atmosphere, carbon dioxide, oxygen, plants, animals, soil, roots, water table
+### clouds, rain, atmosphere, carbon dioxide, oxygen, plants, animals, soil, roots, water table
 
 ANSWER:
 
 https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_m7c63fc4f.jpg
 
-Question 11:
+## Question 11:
+### Which of the following is not a forest product?
 
-Which of the following is not a forest product?
+### (i) Gum
 
-(i) Gum
+### (ii) Plywood
 
-(ii) Plywood
+### (iii) Sealing wax
 
-(iii) Sealing wax
-
-(iv) Kerosene
+### (iv) Kerosene
 
 ANSWER:
 
 (iv)Kerosene
 
-Question 12:
+## Question 12:
+### Which of the following statements is not correct?
 
-Which of the following statements is not correct?
+### (i) Forests protect the soil from erosion.
 
-(i) Forests protect the soil from erosion.
+### (ii) Plants and animals in a forest are not dependent on one another.
 
-(ii) Plants and animals in a forest are not dependent on one another.
+### (iii) Forests influence the climate and water cycle.
 
-(iii) Forests influence the climate and water cycle.
-
-(iv) Soil helps forests to grow and regenerate.
+### (iv) Soil helps forests to grow and regenerate.
 
 ANSWER:
 
