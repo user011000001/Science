@@ -41,9 +41,9 @@ They help in the process of recycling of nutrients by decomposing various dead o
 ### Explain the role of forest in maintaining the balance between oxygen and carbon dioxide in the atmosphere.
 
 ANSWER:Forests are called the green lungs. This is because plants in forests release oxygen through the process of photosynthesis and help in providing oxygen to animals for respiration. Plants consume carbon dioxide released by the animals. In this way, plants help in maintaining a balance of oxygen and carbon dioxide in atmosphere.
-
+```bash
 https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/546/Chapter%2017_html_2ff06bce.jpg
-
+```
 ## Question 5:
 ### Explain why there is no waste in a forest.
 
