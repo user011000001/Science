@@ -155,20 +155,16 @@ ANSWER:
 (ii)Plants and animals in a forest are not dependent on one another.
 
 
+## Question 13:
+### Micro-organisms act upon the dead plants to produce
 
+### (i) sand
 
+### (ii) mushrooms
 
-Question 13:
+### (iii) humus
 
-Micro-organisms act upon the dead plants to produce
-
-(i) sand
-
-(ii) mushrooms
-
-(iii) humus
-
-(iv) wood
+### (iv) wood
 
 ANSWER:
 
