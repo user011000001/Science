@@ -169,5 +169,24 @@ ANSWER:
 ANSWER:
 
 (iii) humus
-
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                        by Harsh
