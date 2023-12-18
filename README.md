@@ -42,7 +42,7 @@ They help in the process of recycling of nutrients by decomposing various dead o
 
 ANSWER:Forests are called the green lungs. This is because plants in forests release oxygen through the process of photosynthesis and help in providing oxygen to animals for respiration. Plants consume carbon dioxide released by the animals. In this way, plants help in maintaining a balance of oxygen and carbon dioxide in atmosphere.
 
-https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/546/Chapter%2017_html_2ff06bce.jpg
+![Alt text](https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/546/Chapter%2017_html_2ff06bce.jpg)
 
 ## Question 5:
 ### Explain why there is no waste in a forest.
@@ -116,13 +116,13 @@ A greater variety of plants and animals in the forests helps it to regenerate an
 ## Question 10:
 ### In figure, the artist has forgotten to put the labels and directions on the arrows. Mark the directions on the arrows and label the diagram using the following labels:
 
-https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_3c7e2c8b.jpg
+![Alt text](https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_3c7e2c8b.jpg)
 
 ### clouds, rain, atmosphere, carbon dioxide, oxygen, plants, animals, soil, roots, water table
 
 ANSWER:
 
-https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_m7c63fc4f.jpg
+![Alt text](https://img-nm.mnimgs.com/img/study_content/curr/1/7/4/62/562/Chapter%2017_html_m7c63fc4f.jpg)
 
 ## Question 11:
 ### Which of the following is not a forest product?
